@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b63a7f80-77cb-4b2a-8cbe-d5b76ff3df99",
+    "brand": "Tesla",
+    "model": "Model S Plaid",
+    "pricePerDay": 180,
+    "image": "images/tesla_model_s_plaid.png",
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "seats": 5,
+    "available": true,
+    "featured": true,
+    "createdAt": 1717243200000
+  },
+  {
+    "id": "2f4a9b6c-82e1-4cfa-bb01-ffda7b32a245",
+    "brand": "Porsche",
+    "model": "911 GT3 RS",
+    "pricePerDay": 350,
+    "image": "images/porsche_911_gt3.png",
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "seats": 2,
+    "available": true,
+    "featured": true,
+    "createdAt": 1717243200000
+  },
+  {
+    "id": "c8d7e6a5-f4e3-4d2c-b1a0-9876543210ab",
+    "brand": "BMW",
+    "model": "M8 Competition",
+    "pricePerDay": 240,
+    "image": "images/bmw_m8_competition.png",
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "seats": 4,
+    "available": true,
+    "featured": false,
+    "createdAt": 1717243200000
+  },
+  {
+    "id": "5d6c7b8a-9e0f-4a1b-bc2d-3e4f5a6b7c8d",
+    "brand": "Mercedes-Benz",
+    "model": "G 63 AMG",
+    "pricePerDay": 290,
+    "image": "images/mercedes_g63_amg.png",
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "seats": 5,
+    "available": true,
+    "featured": true,
+    "createdAt": 1717243200000
+  },
+  {
+    "id": "e2d3c4b5-a6f7-4e8d-9c0b-1a2b3c4d5e6f",
+    "brand": "Audi",
+    "model": "e-tron GT",
+    "pricePerDay": 200,
+    "image": "images/audi_etron_gt.png",
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "seats": 5,
+    "available": true,
+    "featured": false,
+    "createdAt": 1717243200000
+  },
+  {
+    "id": "f1e2d3c4-b5a6-9f8e-7d6c-5b4a3f2e1d0c",
+    "brand": "Land Rover",
+    "model": "Range Rover Autobiography",
+    "pricePerDay": 260,
+    "image": "images/range_rover_autobiography.png",
+    "transmission": "Automatic",
+    "fuel": "Hybrid",
+    "seats": 7,
+    "available": true,
+    "featured": false,
+    "createdAt": 1717243200000
+  }
+]
