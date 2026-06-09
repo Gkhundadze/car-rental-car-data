@@ -166,5 +166,33 @@
     "available": true,
     "featured": false,
     "createdAt": 1717243200000
+  },
+  {
+    "id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+    "brand": "Aston Martin",
+    "model": "Vantage",
+    "type": "sport",
+    "pricePerDay": 130,
+    "image": "https://github.com/Gkhundadze/car-rental-car-data/blob/main/images/aston-martin.png?raw=true",
+    "transmission": "Automatic",
+    "fuelCapacity": 73,
+    "seats": 6,
+    "available": true,
+    "featured": false,
+    "createdAt": 1717243200000
+  },
+  {
+    "id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+    "brand": "Aston Martin",
+    "model": "Vantage",
+    "type": "sport",
+    "pricePerDay": 130,
+    "image": "https://github.com/Gkhundadze/car-rental-car-data/blob/main/images/aston-martin.png?raw=true",
+    "transmission": "Automatic",
+    "fuelCapacity": 73,
+    "seats": 6,
+    "available": true,
+    "featured": false,
+    "createdAt": 1717243200000
   }
 ]
